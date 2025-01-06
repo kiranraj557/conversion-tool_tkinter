@@ -12,8 +12,8 @@ To run this project, you need to have Python 3.x installed, along with the follo
 - ttkbootstrap: A library for creating modern, styled GUI components using tkinter.
 <br> 
 ```python
-   pip install tk
-   pip installttkbootstrap
+pip install tk
+pip install ttkbootstrap
 ```
 <br>   
 
