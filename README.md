@@ -41,3 +41,7 @@ To run this project, you need to have Python 3.x installed, along with the follo
 
 - View History: Access the conversion history by clicking on the "History" menu and selecting "Show History".
 
+### Images
+![Conversion Section](screenshot/conversion.png)
+
+![ History Section ](screenshot/history.png)

@@ -1,2 +1,4 @@
 Temperature: 30.0 Fahrenheit -> Celsius: -1.11, Kelvin: 272.04
 Length: 40.0 Kilometer -> Meter: 40000.00, Centimeter: 4000000.00, Millimeter: 40000000.00
+Temperature: 20.0 Celsius -> Fahrenheit: 68.00, Kelvin: 293.15
+Length: 350.0 Meter -> Kilometer: 0.35, Centimeter: 35000.00, Millimeter: 350000.00
