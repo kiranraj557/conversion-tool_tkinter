@@ -8,12 +8,12 @@ This project is a simple GUI-based Conversion Tool created using Python's tkinte
 
 ### Libraries
 To run this project, you need to have Python 3.x installed, along with the following Python libraries:
-- 'tkinter': Standard library for creating graphical user interfaces in Python. 
-- 'ttkbootstrap': A library for creating modern, styled GUI components using tkinter.  
+- `tkinter`: Standard library for creating graphical user interfaces in Python. 
+- `ttkbootstrap`: A library for creating modern, styled GUI components using tkinter.  
 
 ### File Requirements
 
-- 'history.txt': A text file used for storing the conversion history. The file will be created automatically upon the first run if it doesn't exist.
+- `history.txt`: A text file used for storing the conversion history. The file will be created automatically upon the first run if it doesn't exist.
 
 ## Features & Usage
 
@@ -34,6 +34,27 @@ To run this project, you need to have Python 3.x installed, along with the follo
 - Length Conversion: Enter a value, select the input unit (Meter, Kilometer, Centimeter, or Millimeter), and click "Convert". The results for the other three units will be displayed.
 
 - View History: Access the conversion history by clicking on the "History" menu and selecting "Show History".
+
+## Steps to use the conversion application:
+
+1. Run the Program:
+- The code provided should be executed in a Python environment where the necessary libraries (`tkinter`& `ttkbootstrap`) are installed.
+- The program will open a graphical user interface (GUI) window.
+
+2. Temperature Conversion:
+- Enter a value in the "Temperature Conversion" section.
+- Select the input unit (Celsius, Fahrenheit, or Kelvin).
+- Click Convert to see the results in other units.
+
+3. Length Conversion:
+- Enter a value in the "Length Conversion" section.
+- Select the input unit (Meter, Kilometer, Centimeter, Millimeter).
+- Click Convert to see the results in other units.
+
+4. View History: Go to the History menu and select Show History to see past conversions.
+
+5. Exit: Close the window when finished.(The history is saved automatically to a file `history.txt` and will persist across sessions.)
+
 
 ### Images
 ![Conversion Section](screenshot/conversion.png)
