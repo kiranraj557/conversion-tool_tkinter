@@ -8,14 +8,8 @@ This project is a simple GUI-based Conversion Tool created using Python's tkinte
 
 ### Libraries
 To run this project, you need to have Python 3.x installed, along with the following Python libraries:
-- tkinter: Standard library for creating graphical user interfaces in Python.
-- ttkbootstrap: A library for creating modern, styled GUI components using tkinter.
-<br> 
-```python
-   pip install tk
-   pip installttkbootstrap
-```
-<br>   
+- tkinter: Standard library for creating graphical user interfaces in Python. 
+- ttkbootstrap: A library for creating modern, styled GUI components using tkinter.  
 
 ### File Requirements
 
